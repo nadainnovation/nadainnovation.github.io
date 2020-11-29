@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
 	var e1 = 'nada',
-		e2 = 'innova',
+		e2 = 'noemail',
 		e3 = 'tion.',
 		e4 = 'ca',
 		e5 = '@',
@@ -10,9 +10,9 @@ $(document).ready(function() {
 
 	var p1 = '+ 1 ',
 		p2 = '(519)',
-		p3 = '772-',
-		p4 = '68',
-		p5 = '47';
+		p3 = 'ABC-',
+		p4 = 'DEF',
+		p5 = 'GHIJ';
 
 
 	$('#e-nada').text(e1+e2+e3+e4+e5+e6+e7);
